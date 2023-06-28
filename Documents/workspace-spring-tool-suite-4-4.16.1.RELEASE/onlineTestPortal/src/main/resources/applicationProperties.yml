@@ -1,0 +1,16 @@
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/JRETESTS
+#    username: root
+#    password: Ilove myfriend1$
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#
+#  jpa:
+#    database-platform: org.hibernate.dialect.MySQL8Dialect
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#    properties:
+#      hibernate:
+#        naming:
+#          physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
